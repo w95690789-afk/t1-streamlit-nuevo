@@ -1,0 +1,8 @@
+streamlit
+pandas
+ortools
+openpyxl
+xlsxwriter
+altair
+requests
+numpy
